@@ -11,7 +11,14 @@
     "start": "node app.js"
   },
   "dependencies": {
+<<<<<<< HEAD
     "express": "^5.0.0",
     "express-ws": "^5.0.2"
+=======
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=14"
+>>>>>>> origin/master
   }
 }
